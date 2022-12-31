@@ -1,3 +1,3 @@
 # Testing
 
-This is a test. 
+[Getting Started](/ph_getting_started)
